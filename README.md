@@ -12,8 +12,7 @@ El objetivo principal es transformar datos transaccionales brutos en insights es
 ---
 
 ## 📸 Capturas del Dashboard
-
-![Financial Dashboard](./dashboard.png)
+![Financial Dashboard](./Dashboard_sales.png)
 
 ---
 
