@@ -12,7 +12,7 @@ El objetivo principal es transformar datos transaccionales brutos en insights es
 ---
 
 ## 📸 Capturas del Dashboard
-*(Tip: Guarda una imagen de tu dashboard en la raíz de tu repositorio con el nombre `dashboard.png` y esta línea la mostrará automáticamente)*
+
 ![Financial Dashboard](./dashboard.png)
 
 ---
